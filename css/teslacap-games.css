@@ -26,5 +26,15 @@ footer {
 .explanation {
 	width: 80%;
 	font-size: 16px;
-	display: inline-block;;
+	display: inline-block;
+}
+
+.thumbnail {
+	cursor: pointer;
+	text-decoration: none;
+	color: #050505;
+}
+
+a:hover {
+	text-decoration: none;
 }
